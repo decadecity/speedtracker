@@ -1,9 +1,9 @@
 #
-#             ____                ________             __          
+#             ____                ________             __
 #            / __/__  ___ ___ ___/ /_  __/______ _____/ /_____ ____
 #           _\ \/ _ \/ -_) -_) _  / / / / __/ _ `/ __/  '_/ -_) __/
-#           ___/ .__/\__/\__/\_,_/ /_/ /_/  \_,_/\__/_/\_\\__/_/   
-#             /_/                                                  
+#           ___/ .__/\__/\__/\_,_/ /_/ /_/  \_,_/\__/_/\_\\__/_/
+#             /_/
 #                          https://speedtracker.org
 #
 
@@ -37,7 +37,7 @@
 #                                                                             #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
-encryptionKey: "YOUR_ENCRYPTED_KEY"
+encryptionKey: "ad0cda1641c6785817f2e9712ada4e565"
 
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
@@ -50,7 +50,7 @@ encryptionKey: "YOUR_ENCRYPTED_KEY"
 #                                                                             #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
-wptKey: "YOUR_ENCRYPTED_WEBPAGETEST_KEY"
+wptKey: "8d51d21c418d244f41febf29298c055706477db22609f0c864e62c5cb4968957a188"
 
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
@@ -66,10 +66,10 @@ wptKey: "YOUR_ENCRYPTED_WEBPAGETEST_KEY"
 #                                                                             #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
-#alerts:
-#  emailAlert:
-#    type: "email"
-#    recipients: ["ENCRYPTED_EMAIL_ADDRESS"]
+alerts:
+  emailAlert:
+    type: "email"
+    recipients: ["a30d851860d1754812ffe37a25cf444f0b1b30"]
 #  otherEmailAlert:
 #    type: "email"
 #    recipients: ["ENCRYPTED_EMAIL_ADDRESS2", "ENCRYPTED_EMAIL_ADDRESS3"]
